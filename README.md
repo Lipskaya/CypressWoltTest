@@ -12,7 +12,9 @@ Develop a Cypress test that simulates the process of ordering a burger to an off
         - $ npm install cypress --save-dev
     - Launch Cypress using:
         - $ npx cypress open;
-    - Select the desired test file "test_orderBurger.cy.js" from the Cypress dashboard and execute it to initiate the test scenario;
+    - Select the desired test file:
+    - "CypressWoltTest/cypress/e2e/QA/test_orderBurger.cy.js"
+        from the Cypress dashboard and execute it to initiate the test scenario;
 3. Test Scenario:
     - Navigate to the Wolt.com website.
     - Search for restaurants offering burgers and deliver to Kauno Dokas.
